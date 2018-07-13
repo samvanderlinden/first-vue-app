@@ -16,7 +16,7 @@ import About from './components/About.vue'
 const routes = [
   { path: '/', component: Hello },
   //route for the about route of the web page
-{ path: '/about', component: About }
+{ path: '/hello-world', component: About }
 ]
 
 // Create the router instance and pass the `routes` option
